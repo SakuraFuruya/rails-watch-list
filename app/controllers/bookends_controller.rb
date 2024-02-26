@@ -1,2 +1,0 @@
-class BookendsController < ApplicationController
-end
